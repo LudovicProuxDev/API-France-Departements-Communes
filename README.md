@@ -64,7 +64,7 @@ Change directory to the project
 cd my-vite-project
 ```
 
-Insall and run npm to the project
+Install and run npm to the project
 ```bash
 npm install
 npm run dev
