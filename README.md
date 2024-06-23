@@ -1,10 +1,10 @@
 ﻿# API-France-Departements-Communes
 
+![api](public/api.png)
+
 This project is a help to get French departments and cities thanks to APIs.
 
 The user can choose a French department from the first select and the second select get the cities from the chosen department.
-
-![api](public/api.png)
 
 To make the project, we can use Visual Studio Code with the console to get npm packages.
 
